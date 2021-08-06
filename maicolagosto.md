@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 ,El Escuadrón Suicida 2 (2021) 4K
+http://ultra-premium-pro.xyz:8090/movie/Jennifer/Jennifer1234/63001.mkv
+#EXTINF:-1 ,El Escuadrón Suicida 2 (2021) 1080P
+http://ultra-premium-pro.xyz:8090/movie/Jennifer/Jennifer1234/63000.mkv
+#EXTINF:-1 ,El Escuadrón Suicida 2 (2021) 720P
+http://ultra-premium-pro.xyz:8090/movie/Jennifer/Jennifer1234/62999.mkv
+
 #EXTINF:-1 group-title="CONCIERTOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ad4BXIaPM9jhTzE2pqNkTaV5yB9.jpg",1 - Marc Anthony - One Night (Full Concert) (2021)
 http://tv.iptv5latino.cl:8080/movie/maicol7051/OptFqRDXDC/65585.mp4
 #EXTINF:-1 group-title="CONCIERTOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aV5uHlup1oPsiTdkULdPF4clNC.jpg",2 - Ricardo Arjona - Hecho a la Antigua (2021)
